@@ -1,0 +1,14 @@
+{
+    "workbench.welcome.enabled": false,
+    "window.zoomLevel": 0,
+    // editor settings
+    "editor.formatOnSave": true,
+    "editor.dragAndDrop": true,
+    // GO settings
+    "go.buildOnSave": true,
+    "go.lintOnSave": true,
+    "go.vetOnSave": true,
+    "go.useCodeSnippetsOnFunctionSuggest": false,
+    "go.formatOnSave": true,
+    "go.formatTool": "goreturns"
+}
